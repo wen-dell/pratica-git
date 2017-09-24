@@ -1,3 +1,7 @@
 Git Course
 
-Exemplo...
+Exemplo demonstrando o staged
+
+Aprenda mais em: https://git-scm.com
+
+Para aprender git, pratique!
